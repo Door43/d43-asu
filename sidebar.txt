@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asu:home|Door43 (asu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asu|d43-asu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asu/archive/master.zip|d43-asu.zip]]
+
+**Recent Changes**
+{{changes>ns = asu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asu|Ethnologue data]]
+
